@@ -1,6 +1,6 @@
 title: "toxicoder.github.io | Alex Abfalter"
 description: "Personal portfolio of Alex Abfalter (toxicoder), focusing on AI/ML & Data Infrastructure"
-url: "https://toxicoder.github.io"
+url: "https://toxicoder.github.io" # Verified correct for root user page
 baseurl: ""
 repository: "toxicoder/toxicoder.github.io"
 github_url: "https://github.com/toxicoder/toxicoder.github.io"
