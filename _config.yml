@@ -3,7 +3,7 @@ description: "Personal portfolio of Alex Abfalter (toxicoder), focusing on AI/ML
 url: "https://toxicoder.github.io"
 baseurl: ""
 repository: "toxicoder/toxicoder.github.io"
-github_url: "https://github.com/toxicoder/toxicoder.github.io"
+github_url: "https://github.com/toxicoder"
 remote_theme: "toxicoder/materialistic-jekyll"
 plugins:
   - jekyll-remote-theme
