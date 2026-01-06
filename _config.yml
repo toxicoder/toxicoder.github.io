@@ -1,0 +1,27 @@
+title: "toxicoder.github.io | Alex Abfalter"
+description: "Personal portfolio of Alex Abfalter (toxicoder), focusing on AI/ML & Data Infrastructure"
+url: "https://toxicoder.github.io"
+baseurl: ""
+repository: "toxicoder/toxicoder.github.io"
+github_url: "https://github.com/toxicoder/toxicoder.github.io"
+remote_theme: "toxicoder/materialistic-jekyll"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-seo-tag
+  - jekyll-feed
+theme_settings:
+  palette: "palette-1"
+permalink: "pretty"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      sidebar:
+        nav: "main"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
