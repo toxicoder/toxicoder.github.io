@@ -1,5 +1,21 @@
 # toxicoder.github.io
 
+Welcome to my personal GitHub Pages! This is a simple static site showcasing my work, interests, and contact information.
+
+## About Me
+
+I'm Alex Abfalter (toxicoder), a professional in AI/ML & Data Infrastructure. My specialties, experience, and interests revolve around AI/ML & Data Infrastructure, Reliability & Scaling, Automation, Data Science, AI/ML Software Engineering, and Agentic AI Systems.
+
+## Projects
+
+- [2026-01-06] Actively working on open sourcing a massive suite of tools, frameworks, and Infrastructure as Code related to the interests listed above. The end goal is to compile a decades worth of technical tooling into a standardized developer and production environment that is easy for anyone to use, and provides full support for local and cloud environments. The purpose is to share the base layer infrastructure to enable fast project and/or company development at bare minimum costs.
+
+## Contact
+
+Feel free to reach out:
+
+- LinkedIn: [linkedin.com/in/alex-abfalter](https://linkedin.com/in/alex-abfalter)
+
 ## Support My Projects
 
 If you find this repository helpful and would like to support its development, consider making a donation:
