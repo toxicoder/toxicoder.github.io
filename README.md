@@ -18,6 +18,8 @@ Feel free to reach out:
 
 ## Support My Projects
 
+* [github.com/toxicoder?tab=repositories](https://github.com/toxicoder?tab=repositories)
+
 If you find this repository helpful and would like to support its development, consider making a donation:
 
 ### GitHub Sponsors
