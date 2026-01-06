@@ -2,10 +2,10 @@ docs:
   - title: Home
     url: /
   - title: About Me
-    url: /about/
+    url: /#about-me
   - title: Projects
-    url: /projects/
+    url: /#projects
   - title: Contact
-    url: /contact/
+    url: /#contact
   - title: Support
-    url: /support/
+    url: /#support-my-projects
